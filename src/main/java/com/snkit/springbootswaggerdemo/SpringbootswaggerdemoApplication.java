@@ -1,0 +1,13 @@
+package com.snkit.springbootswaggerdemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootswaggerdemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootswaggerdemoApplication.class, args);
+	}
+
+}
